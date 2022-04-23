@@ -14,6 +14,13 @@ Features:
 10. Add staff: Register a new staff and information
 11. So on ……
 ![image](https://user-images.githubusercontent.com/67199735/164884490-b4c6bf7c-5b63-48d3-baee-34627295aac2.png)
+![image](https://user-images.githubusercontent.com/67199735/164884861-f5e6e506-f50a-43ef-a2e3-dc62a8f94d62.png)
+![image](https://user-images.githubusercontent.com/67199735/164884886-ce0dfb33-2d0f-49ab-ad07-90d172027bce.png)
+![image](https://user-images.githubusercontent.com/67199735/164884900-ae3c2529-8e45-490c-8898-57df82218dcc.png)
+![image](https://user-images.githubusercontent.com/67199735/164884939-e69066e1-4389-48a6-bc5f-855276a32a8c.png)
+![image](https://user-images.githubusercontent.com/67199735/164884927-fec5ea58-4964-4669-89ad-316c74271754.png)
+![image](https://user-images.githubusercontent.com/67199735/164884959-762a210e-4f4b-4849-91e1-a19d3c2777e0.png)
+![image](https://user-images.githubusercontent.com/67199735/164884972-61fa50e3-3c5d-4d15-8a00-c180b0b20fba.png)
 ![image](https://user-images.githubusercontent.com/67199735/164884509-df0373e5-1f95-4fe6-b69d-a97c93b473fc.png)
 ![image](https://user-images.githubusercontent.com/67199735/164884521-05e91dac-0b53-4ab2-a479-6bf7f29176fd.png)
 ![image](https://user-images.githubusercontent.com/67199735/164884542-a7fb139d-197d-403e-ae91-8f6e79aca95a.png)
